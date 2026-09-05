@@ -1,0 +1,5 @@
+Mode,Current_Allocation,Optimized_Allocation,Cost_per_Shipment,Avg_Delay_hrs
+Road,22,22.3,9155.0,9.08
+Rail,8,16.0,4815.0,8.11
+Air,6,1.7,31177.0,6.67
+Sea,4,0.0,3689.0,9.69

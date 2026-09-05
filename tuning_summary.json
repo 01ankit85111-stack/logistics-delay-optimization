@@ -1,0 +1,11 @@
+{
+  "best_params": {
+    "max_depth": 8,
+    "min_samples_leaf": 5,
+    "n_estimators": 300
+  },
+  "best_cv_rmse": 3.414,
+  "tuned_test_mae": 2.469,
+  "tuned_test_rmse": 3.389,
+  "tuned_test_r2": 0.422
+}
